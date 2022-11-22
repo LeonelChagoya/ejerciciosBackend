@@ -127,7 +127,7 @@ namespace reverse_string
                 }
                 else
                 {
-                    Console.WriteLine("El numero que sumado a la etapa 4 dara yb multiplo de 10 es : 0");
+                    Console.WriteLine("El numero que sumado a la etapa 4 dara un multiplo de 10 es : 0");
                 }
 
             }
